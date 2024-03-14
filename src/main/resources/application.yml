@@ -1,0 +1,27 @@
+emp: 
+ details:
+  eno: 101
+  ename: soumya
+  eaddrs: BBSR
+#  favColors: 
+#         - red
+#         - blue
+#         - green
+  fav-colors: [red, blue,green,pink]
+  nickNames: 
+             - bunney
+             - raja                              
+             - Bunty
+  phoneNumber: 
+             - 5648731675
+             - 6497123649
+             - 2316489761
+  idDetails: 
+      aadhar: 5487912214567
+      voterid: 57843
+      panNo: 457862
+  project: 
+      pid: 245
+      pname: openFx
+      paddrs: ban
+      size: 90
